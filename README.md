@@ -208,12 +208,12 @@ For every prediction, a waterfall chart shows exactly how each feature pushed th
 
 ## Streamlit App
 
-**Live Demo:** [riskiq.streamlit.app](#) *(replace with your URL)*
+**Live Demo:** [riskiq-predictor.streamlit.app](https://riskiq-predictor.streamlit.app)
 
 ### How to run locally:
 
 ```bash
-git clone https://github.com/yourusername/riskiq
+git clone https://github.com/DN816/riskiq-insurance-predictor.git
 cd riskiq
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
@@ -245,7 +245,7 @@ streamlit run app/streamlit_app.py
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/riskiq.git
+git clone https://github.com/DN816/riskiq-insurance-predictor.git
 cd riskiq
 
 # 2. Create virtual environment

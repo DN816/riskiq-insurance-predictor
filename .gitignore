@@ -9,8 +9,6 @@ venv/
 env/
 .venv/
 
-# Model artifacts (binary — do not commit)
-models/*.pkl
 
 # IDE
 .vscode/
